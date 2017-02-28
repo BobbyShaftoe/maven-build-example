@@ -37,6 +37,7 @@ virtual_tmp
 
 # PyCharm
 *.idea
+.idea
 
 # Thumbnails
 ._*
